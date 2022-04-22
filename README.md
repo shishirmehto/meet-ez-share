@@ -1,2 +1,2 @@
 # meet-ez-share
-create and share google meet meetings easily 
+chrome extension to create and share google meet meetings easily 
